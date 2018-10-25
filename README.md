@@ -1,2 +1,2 @@
 # haon
-Private R package for me :octocat:
+A private R package for me :octocat:
