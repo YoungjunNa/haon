@@ -1,0 +1,16 @@
+Package: haon
+Title: My Personal Package.
+Version: 0.1
+Authors@R: person("Youngjun", "Na", email = "ruminoreticulum@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.4)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse,
+    feed,
+    dairyCattle,
+    hanwoo,
+    CH4goat,
+    pacman
+RoxygenNote: 6.1.0
